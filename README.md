@@ -15,7 +15,7 @@ Medallion architecture with three layers:
 ## Tech Stack
 SQL Server, T-SQL, draw.io
 
-## What I Added / Learned
+## What I Learned
 - (your own additions, e.g. extra data quality checks, a new gold view, a dashboard)
 - (a challenge you hit and how you solved it)
 
