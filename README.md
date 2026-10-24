@@ -3,7 +3,7 @@
 Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
 
 ## Acknowledgment
-This project was built following the [SQL Data Warehouse tutorial by Data With Baraa](PASTE-LINK-HERE).
+This project was built following the [SQL Data Warehouse tutorial by Data With Baraa](https://github.com/DataWithBaraa/sql-data-warehouse-project).
 The architecture and dataset come from his course; the implementation, notes, and additions are mine.
 
 ## Architecture
